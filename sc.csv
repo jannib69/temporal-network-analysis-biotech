@@ -1,0 +1,501 @@
+symbol,name,lastsale,netchange,pctchange,marketCap,url
+LLY,Eli Lilly and Company Common Stock,"$1,010.31",-4.18,-0.412%,"955,130,663,535",/market-activity/stocks/lly
+JNJ,Johnson & Johnson Common Stock,$201.93,-0.55,-0.272%,"486,508,959,947",/market-activity/stocks/jnj
+ABBV,AbbVie Inc. Common Stock,$226.08,-2.63,-1.15%,"399,570,317,603",/market-activity/stocks/abbv
+UNH,UnitedHealth Group Incorporated Common Stock (DE),$330.91,-2.58,-0.774%,"299,751,057,744",/market-activity/stocks/unh
+MRK,"Merck & Company, Inc. Common Stock (new)",$99.72,-1.17,-1.16%,"247,507,287,290",/market-activity/stocks/mrk
+PM,Philip Morris International Inc Common Stock,$147.81,-0.77,-0.518%,"230,086,773,490",/market-activity/stocks/pm
+ABT,Abbott Laboratories Common Stock,$125.08,-0.32,-0.255%,"217,498,103,131",/market-activity/stocks/abt
+ISRG,"Intuitive Surgical, Inc. Common Stock",$575.34,6.71,1.18%,"203,955,770,640",/market-activity/stocks/isrg
+AMGN,Amgen Inc. Common Stock,$329.89,-10.27,-3.019%,"177,639,388,556",/market-activity/stocks/amgn
+GILD,"Gilead Sciences, Inc. Common Stock",$121.22,-1.40,-1.142%,"150,395,183,900",/market-activity/stocks/gild
+PFE,"Pfizer, Inc. Common Stock",$26.03,0.33,1.284%,"147,998,967,579",/market-activity/stocks/pfe
+BSX,Boston Scientific Corporation Common Stock,$97.52,-0.20,-0.205%,"144,567,747,643",/market-activity/stocks/bsx
+SYK,Stryker Corporation Common Stock,$364.02,-0.33,-0.091%,"139,209,856,345",/market-activity/stocks/syk
+MDT,Medtronic plc. Ordinary Shares,$101.36,-0.63,-0.618%,"129,944,960,123",/market-activity/stocks/mdt
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,$455.48,-1.88,-0.411%,"115,563,853,144",/market-activity/stocks/vrtx
+HCA,"HCA Healthcare, Inc. Common Stock",$486.70,-0.96,-0.197%,"111,061,971,130",/market-activity/stocks/hca
+BMY,Bristol-Myers Squibb Company Common Stock,$52.15,0.20,0.385%,"106,164,520,358",/market-activity/stocks/bmy
+MCK,McKesson Corporation Common Stock,$808.62,-5.56,-0.683%,"99,805,257,723",/market-activity/stocks/mck
+MO,"Altria Group, Inc.",$57.99,-0.35,-0.60%,"97,346,163,300",/market-activity/stocks/mo
+MMM,3M Company Common Stock,$167.48,-1.79,-1.057%,"88,969,571,039",/market-activity/stocks/mmm
+REGN,"Regeneron Pharmaceuticals, Inc. Common Stock",$718.36,-4.44,-0.614%,"75,499,250,959",/market-activity/stocks/regn
+ELV,"Elevance Health, Inc. Common Stock",$330.75,-2.74,-0.822%,"73,505,470,862",/market-activity/stocks/elv
+CI,The Cigna Group Common Stock,$265.44,-2.98,-1.11%,"70,905,876,599",/market-activity/stocks/ci
+COR,"Cencora, Inc. Common Stock",$339.66,2.03,0.601%,"65,891,813,189",/market-activity/stocks/cor
+ALNY,"Alnylam Pharmaceuticals, Inc. Common Stock",$458.12,-7.22,-1.552%,"60,523,982,302",/market-activity/stocks/alny
+IDXX,"IDEXX Laboratories, Inc. Common Stock",$714.10,-3.37,-0.47%,"57,021,834,753",/market-activity/stocks/idxx
+BDX,"Becton, Dickinson and Company Common Stock",$193.96,0.20,0.103%,"55,359,782,152",/market-activity/stocks/bdx
+ZTS,Zoetis Inc. Class A Common Stock,$118.65,-1.76,-1.462%,"52,288,249,841",/market-activity/stocks/zts
+EW,Edwards Lifesciences Corporation Common Stock,$86.19,0.41,0.478%,"50,016,057,000",/market-activity/stocks/ew
+CAH,"Cardinal Health, Inc. Common Stock",$198.83,-0.36,-0.181%,"47,241,022,201",/market-activity/stocks/cah
+INSM,Insmed Incorporated Common Stock,$204.00,-1.04,-0.507%,"43,507,787,676",/market-activity/stocks/insm
+GEHC,GE HealthCare Technologies Inc. Common Stock ,$85.46,2.94,3.563%,"38,928,875,252",/market-activity/stocks/gehc
+IQV,"IQVIA Holdings, Inc. Common Stock",$225.85,0.93,0.413%,"38,462,255,000",/market-activity/stocks/iqv
+RMD,ResMed Inc. Common Stock,$256.55,5.04,2.004%,"37,447,652,726",/market-activity/stocks/rmd
+NTRA,"Natera, Inc. Common Stock",$244.55,2.49,1.029%,"33,751,437,416",/market-activity/stocks/ntra
+HUM,Humana Inc. Common Stock,$257.85,4.83,1.909%,"31,012,410,584",/market-activity/stocks/hum
+BIIB,Biogen Inc. Common Stock,$181.30,-0.68,-0.374%,"26,597,121,914",/market-activity/stocks/biib
+STE,STERIS plc (Ireland) Ordinary Shares,$263.28,2.26,0.866%,"25,840,144,530",/market-activity/stocks/ste
+RPRX,Royalty Pharma plc Class A Ordinary Shares ,$39.73,0.58,1.481%,"22,933,669,991",/market-activity/stocks/rprx
+BTSGU,"BrightSpring Health Services, Inc. Tangible Equity Unit",$120.59,1.77,1.49%,"21,748,683,495",/market-activity/stocks/btsgu
+LH,Labcorp Holdings Inc. Common Stock,$258.39,-3.09,-1.182%,"21,420,531,000",/market-activity/stocks/lh
+PODD,Insulet Corporation Common Stock,$304.49,-11.43,-3.618%,"21,419,926,972",/market-activity/stocks/podd
+UTHR,United Therapeutics Corporation Common Stock,$489.31,5.21,1.076%,"21,068,024,457",/market-activity/stocks/uthr
+DGX,Quest Diagnostics Incorporated Common Stock,$182.51,-1.67,-0.907%,"20,302,843,489",/market-activity/stocks/dgx
+WST,"West Pharmaceutical Services, Inc. Common Stock",$280.23,-1.54,-0.547%,"20,160,702,345",/market-activity/stocks/wst
+INCY,Incyte Corp. Common Stock,$102.52,2.06,2.051%,"20,127,003,512",/market-activity/stocks/incy
+ILMN,"Illumina, Inc. Common Stock",$128.96,0.93,0.726%,"19,705,088,000",/market-activity/stocks/ilmn
+EXAS,Exact Sciences Corporation Common Stock,$101.06,-0.07,-0.069%,"19,147,969,376",/market-activity/stocks/exas
+CNC,Centene Corporation Common Stock,$38.34,-0.51,-1.313%,"18,844,800,120",/market-activity/stocks/cnc
+ZBH,"Zimmer Biomet Holdings, Inc. Common Stock",$94.28,1.12,1.202%,"18,684,557,005",/market-activity/stocks/zbh
+THC,Tenet Healthcare Corporation Common Stock,$210.00,-2.14,-1.009%,"18,455,850,000",/market-activity/stocks/thc
+HOLX,"Hologic, Inc. Common Stock",$74.97,0.11,0.147%,"16,711,204,943",/market-activity/stocks/holx
+COO,"The Cooper Companies, Inc. Common Stock",$81.40,4.37,5.673%,"16,183,046,169",/market-activity/stocks/coo
+NBIX,"Neurocrine Biosciences, Inc. Common Stock",$155.51,1.29,0.836%,"15,505,233,096",/market-activity/stocks/nbix
+MEDP,"Medpace Holdings, Inc. Common Stock",$548.12,3.35,0.615%,"15,439,566,391",/market-activity/stocks/medp
+ULS,UL Solutions Inc. Class A Common Stock,$76.60,-0.14,-0.182%,"15,397,537,201",/market-activity/stocks/uls
+RVMD,"Revolution Medicines, Inc. Common Stock",$79.64,1.16,1.478%,"15,395,989,270",/market-activity/stocks/rvmd
+SOLV,Solventum Corporation Common Stock,$85.43,0.17,0.199%,"14,817,624,795",/market-activity/stocks/solv
+UHS,"Universal Health Services, Inc. Common Stock",$231.08,0.49,0.212%,"14,438,452,865",/market-activity/stocks/uhs
+BBIO,"BridgeBio Pharma, Inc. Common Stock",$73.64,-1.12,-1.498%,"14,191,076,989",/market-activity/stocks/bbio
+SMMT,Summit Therapeutics Inc. Common Stock ,$18.31,-0.50,-2.658%,"13,630,742,871",/market-activity/stocks/smmt
+IONS,"Ionis Pharmaceuticals, Inc. Common Stock",$81.68,-0.13,-0.159%,"13,230,068,420",/market-activity/stocks/ions
+MDGL,"Madrigal Pharmaceuticals, Inc. Common Stock",$577.30,-8.91,-1.52%,"13,111,302,766",/market-activity/stocks/mdgl
+GH,"Guardant Health, Inc. Common Stock",$102.02,-6.50,-5.99%,"12,858,711,900",/market-activity/stocks/gh
+VTRS,Viatris Inc. Common Stock,$10.93,0.17,1.58%,"12,588,844,701",/market-activity/stocks/vtrs
+GMED,"Globus Medical, Inc. Class A Common Stock",$91.10,2.36,2.659%,"12,192,748,023",/market-activity/stocks/gmed
+EXEL,"Exelixis, Inc. Common Stock",$44.36,-0.01,-0.023%,"11,893,455,285",/market-activity/stocks/exel
+PEN,"Penumbra, Inc. Common Stock",$300.66,5.94,2.015%,"11,774,500,137",/market-activity/stocks/pen
+EHC,Encompass Health Corporation Common Stock,$112.50,-0.52,-0.46%,"11,319,297,413",/market-activity/stocks/ehc
+ALGN,"Align Technology, Inc. Common Stock",$157.21,0.37,0.236%,"11,279,816,714",/market-activity/stocks/algn
+ELAN,Elanco Animal Health Incorporated Common Stock,$21.90,-0.09,-0.409%,"10,881,310,059",/market-activity/stocks/elan
+MRNA,"Moderna, Inc. Common Stock",$27.70,2.21,8.67%,"10,821,822,482",/market-activity/stocks/mrna
+RNA,"Avidity Biosciences, Inc. Common Stock",$71.63,0.09,0.126%,"10,792,903,399",/market-activity/stocks/rna
+ENSG,"The Ensign Group, Inc. Common Stock",$177.97,0.03,0.017%,"10,308,873,631",/market-activity/stocks/ensg
+BMRN,BioMarin Pharmaceutical Inc. Common Stock,$53.40,-0.42,-0.78%,"10,258,905,970",/market-activity/stocks/bmrn
+TECH,Bio-Techne Corp Common Stock,$61.68,-1.86,-2.927%,"9,610,527,398",/market-activity/stocks/tech
+BAX,Baxter International Inc. Common Stock,$18.54,0.06,0.325%,"9,530,594,625",/market-activity/stocks/bax
+RGEN,Repligen Corporation Common Stock,$164.98,-0.78,-0.471%,"9,286,847,770",/market-activity/stocks/rgen
+CRL,"Charles River Laboratories International, Inc. Common Stock",$184.31,0.27,0.147%,"9,070,903,460",/market-activity/stocks/crl
+CORT,Corcept Therapeutics Incorporated Common Stock,$86.105,1.445,1.707%,"9,057,231,425",/market-activity/stocks/cort
+HIMS,"Hims & Hers Health, Inc. Class A Common Stock",$39.20,-0.82,-2.049%,"8,923,821,749",/market-activity/stocks/hims
+HSIC,"Henry Schein, Inc. Common Stock",$73.62,0.28,0.382%,"8,666,900,291",/market-activity/stocks/hsic
+ARWR,"Arrowhead Pharmaceuticals, Inc. Common Stock",$61.44,-3.22,-4.98%,"8,344,139,244",/market-activity/stocks/arwr
+DVA,DaVita Inc. Common Stock,$117.39,0.11,0.094%,"8,287,734,000",/market-activity/stocks/dva
+CAI,"Caris Life Sciences, Inc. Common Stock",$28.86,0.54,1.907%,"8,142,760,198",/market-activity/stocks/cai
+CYTK,"Cytokinetics, Incorporated Common Stock",$65.67,-0.87,-1.307%,"8,029,137,887",/market-activity/stocks/cytk
+NUVL,"Nuvalent, Inc. Class A Common Stock",$109.60,2.74,2.564%,"7,968,655,964",/market-activity/stocks/nuvl
+MOH,Molina Healthcare Inc Common Stock,$151.86,1.29,0.857%,"7,805,604,000",/market-activity/stocks/moh
+MASI,Masimo Corporation Common Stock,$141.68,-0.58,-0.408%,"7,610,192,294",/market-activity/stocks/masi
+AXSM,"Axsome Therapeutics, Inc. Common Stock",$149.22,1.18,0.797%,"7,522,574,141",/market-activity/stocks/axsm
+HALO,"Halozyme Therapeutics, Inc. Common Stock",$63.33,0.38,0.604%,"7,447,418,010",/market-activity/stocks/halo
+RYTM,"Rhythm Pharmaceuticals, Inc. Common Stock",$104.60,-1.10,-1.041%,"6,980,591,458",/market-activity/stocks/rytm
+CDTX,"Cidara Therapeutics, Inc. Common Stock",$220.36,-0.14,-0.063%,"6,927,979,794",/market-activity/stocks/cdtx
+KRYS,"Krystal Biotech, Inc. Common Stock",$234.13,12.17,5.483%,"6,789,189,123",/market-activity/stocks/krys
+BTSG,"BrightSpring Health Services, Inc. Common Stock",$35.79,0.63,1.792%,"6,454,808,710",/market-activity/stocks/btsg
+MSA,MSA Safety Incorporated Common Stock,$162.33,-0.88,-0.539%,"6,355,554,062",/market-activity/stocks/msa
+GKOS,Glaukos Corporation Common Stock,$108.51,-0.34,-0.312%,"6,232,243,637",/market-activity/stocks/gkos
+PTCT,"PTC Therapeutics, Inc. Common Stock",$77.255,-0.595,-0.764%,"6,202,673,003",/market-activity/stocks/ptct
+PRAX,"Praxis Precision Medicines, Inc. Common Stock",$247.99,58.02,30.542%,"6,201,528,336",/market-activity/stocks/prax
+PCVX,"Vaxcyte, Inc. Common Stock",$46.48,0.41,0.89%,"6,084,523,104",/market-activity/stocks/pcvx
+RDNT,"RadNet, Inc. Common Stock",$78.59,-2.49,-3.071%,"6,062,931,018",/market-activity/stocks/rdnt
+CHE,Chemed Corp,$421.97,-2.33,-0.549%,"5,976,865,364",/market-activity/stocks/che
+IRTC,"iRhythm Technologies, Inc. Common Stock",$178.37,-2.98,-1.643%,"5,746,928,537",/market-activity/stocks/irtc
+BLTE,"Belite Bio, Inc American Depositary Shares",$150.00,-1.27,-0.84%,"5,627,194,500",/market-activity/stocks/blte
+PTGX,"Protagonist Therapeutics, Inc. Common Stock",$89.65,2.32,2.657%,"5,604,529,457",/market-activity/stocks/ptgx
+COGT,"Cogent Biosciences, Inc. Common Stock",$38.77,-0.54,-1.374%,"5,519,938,029",/market-activity/stocks/cogt
+TFX,Teleflex Incorporated Common Stock,$120.50,1.64,1.38%,"5,325,426,164",/market-activity/stocks/tfx
+APGE,"Apogee Therapeutics, Inc. Common Stock",$76.75,1.25,1.656%,"5,243,577,576",/market-activity/stocks/apge
+LEGN,Legend Biotech Corporation American Depositary Shares,$28.13,0.32,1.151%,"5,166,050,815",/market-activity/stocks/legn
+MMSI,"Merit Medical Systems, Inc. Common Stock",$83.43,-0.66,-0.785%,"4,946,585,391",/market-activity/stocks/mmsi
+BLLN,"BillionToOne, Inc. Class A Common Stock",$111.64,7.62,7.326%,"4,913,865,748",/market-activity/stocks/blln
+CELC,Celcuity Inc. Common Stock,$105.63,-0.24,-0.227%,"4,887,633,088",/market-activity/stocks/celc
+TGTX,"TG Therapeutics, Inc. Common Stock",$30.76,-0.62,-1.976%,"4,883,440,713",/market-activity/stocks/tgtx
+PACS,"PACS Group, Inc. Common Stock",$30.76,-0.73,-2.318%,"4,817,481,829",/market-activity/stocks/pacs
+KYMR,"Kymera Therapeutics, Inc. Common Stock",$66.62,0.39,0.589%,"4,793,244,179",/market-activity/stocks/kymr
+SHC,Sotera Health Company Common Stock,$16.75,0.19,1.147%,"4,758,573,311",/market-activity/stocks/shc
+OPCH,"Option Care Health, Inc. Common Stock",$29.89,-0.005,-0.017%,"4,744,520,582",/market-activity/stocks/opch
+ADMA,ADMA Biologics Inc Common Stock,$19.85,-0.26,-1.293%,"4,724,255,635",/market-activity/stocks/adma
+TMDX,"TransMedics Group, Inc. Common Stock",$136.51,-2.12,-1.529%,"4,665,137,106",/market-activity/stocks/tmdx
+ACAD,ACADIA Pharmaceuticals Inc. Common Stock,$27.44,0.89,3.352%,"4,642,349,058",/market-activity/stocks/acad
+SRRK,Scholar Rock Holding Corporation Common Stock,$45.02,-0.18,-0.398%,"4,592,375,714",/market-activity/stocks/srrk
+AKRO,"Akero Therapeutics, Inc. Common Stock",$54.55,-0.08,-0.146%,"4,490,347,564",/market-activity/stocks/akro
+OSCR,"Oscar Health, Inc. Class A Common Stock",$16.77,-0.41,-2.386%,"4,438,750,680",/market-activity/stocks/oscr
+CRNX,"Crinetics Pharmaceuticals, Inc. Common Stock",$46.67,-0.75,-1.582%,"4,428,602,173",/market-activity/stocks/crnx
+VKTX,"Viking Therapeutics, Inc. Common Stock",$38.55,-0.02,-0.052%,"4,357,551,061",/market-activity/stocks/vktx
+LNTH,"Lantheus Holdings, Inc. Common Stock",$63.30,1.43,2.311%,"4,197,535,611",/market-activity/stocks/lnth
+ACLX,"Arcellx, Inc. Common Stock",$69.56,1.11,1.622%,"4,022,158,907",/market-activity/stocks/aclx
+IMVT,"Immunovant, Inc. Common Stock",$22.84,-0.07,-0.306%,"4,003,315,854",/market-activity/stocks/imvt
+INSP,"Inspire Medical Systems, Inc. Common Stock",$136.81,-3.22,-2.30%,"3,975,210,736",/market-activity/stocks/insp
+GRAL,"GRAIL, Inc. Common Stock ",$100.98,-3.725,-3.558%,"3,936,424,879",/market-activity/stocks/gral
+HAE,Haemonetics Corporation Common Stock,$83.94,0.13,0.155%,"3,929,203,868",/market-activity/stocks/hae
+ALHC,"Alignment Healthcare, Inc. Common Stock",$19.55,0.15,0.773%,"3,911,793,556",/market-activity/stocks/alhc
+AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",$12.18,0.24,2.01%,"3,828,940,366",/market-activity/stocks/amrx
+ARQT,"Arcutis Biotherapeutics, Inc. Common Stock",$31.20,0.04,0.128%,"3,821,756,390",/market-activity/stocks/arqt
+LGND,Ligand Pharmaceuticals Incorporated Common Stock,$184.87,-3.63,-1.926%,"3,638,559,576",/market-activity/stocks/lgnd
+VCYT,"Veracyte, Inc. Common Stock",$44.61,-2.80,-5.906%,"3,526,383,608",/market-activity/stocks/vcyt
+IRON,"Disc Medicine, Inc. Common Stock",$93.26,-0.53,-0.565%,"3,520,580,108",/market-activity/stocks/iron
+MIRM,"Mirum Pharmaceuticals, Inc. Common Stock",$68.48,-3.05,-4.264%,"3,519,431,948",/market-activity/stocks/mirm
+ICUI,"ICU Medical, Inc. Common Stock",$142.51,0.16,0.112%,"3,518,095,917",/market-activity/stocks/icui
+RARE,Ultragenyx Pharmaceutical Inc. Common Stock,$36.38,-0.16,-0.438%,"3,509,853,960",/market-activity/stocks/rare
+CGON,"CG Oncology, Inc. Common stock",$43.30,-1.43,-3.197%,"3,492,845,551",/market-activity/stocks/cgon
+TARS,"Tarsus Pharmaceuticals, Inc. Common Stock",$81.77,-0.06,-0.073%,"3,471,063,316",/market-activity/stocks/tars
+NVST,Envista Holdings Corporation Common Stock,$20.23,0.10,0.497%,"3,326,342,694",/market-activity/stocks/nvst
+ATEC,"Alphatec Holdings, Inc. Common Stock",$21.45,0.17,0.799%,"3,186,401,468",/market-activity/stocks/atec
+KNSA,"Kiniksa Pharmaceuticals International, plc Class A Ordinary Shares",$41.67,0.68,1.659%,"3,158,409,278",/market-activity/stocks/knsa
+IDYA,"IDEAYA Biosciences, Inc. Common Stock",$35.87,-0.14,-0.389%,"3,144,594,055",/market-activity/stocks/idya
+TVTX,"Travere Therapeutics, Inc. Common Stock",$35.00,-0.33,-0.934%,"3,131,531,445",/market-activity/stocks/tvtx
+VRDN,"Viridian Therapeutics, Inc. Common Stock",$32.02,-0.44,-1.356%,"3,056,053,096",/market-activity/stocks/vrdn
+FOLD,"Amicus Therapeutics, Inc. Common Stock",$9.90,-0.05,-0.503%,"3,054,482,125",/market-activity/stocks/fold
+MLYS,"Mineralys Therapeutics, Inc. Common Stock",$38.50,-0.41,-1.054%,"3,046,888,306",/market-activity/stocks/mlys
+LQDA,Liquidia Corporation Common Stock,$34.41,0.49,1.445%,"2,993,514,570",/market-activity/stocks/lqda
+APLS,"Apellis Pharmaceuticals, Inc. Common Stock",$23.63,1.44,6.489%,"2,989,790,901",/market-activity/stocks/apls
+PRVA,"Privia Health Group, Inc. Common Stock",$23.84,-0.16,-0.667%,"2,932,356,451",/market-activity/stocks/prva
+NUVB,Nuvation Bio Inc. Class A Common Stock,$8.55,0.24,2.888%,"2,931,225,852",/market-activity/stocks/nuvb
+DNLI,Denali Therapeutics Inc. Common Stock,$19.96,-0.15,-0.746%,"2,927,370,187",/market-activity/stocks/dnli
+PBH,Prestige Consumer Healthcare Inc. Common Stock,$60.82,0.76,1.265%,"2,924,469,488",/market-activity/stocks/pbh
+DYN,"Dyne Therapeutics, Inc. Common Stock",$20.28,-0.37,-1.792%,"2,896,484,652",/market-activity/stocks/dyn
+CPRX,"Catalyst Pharmaceuticals, Inc. Common Stock",$23.53,0.45,1.95%,"2,892,128,466",/market-activity/stocks/cprx
+VERA,"Vera Therapeutics, Inc. Class A Common Stock",$44.90,2.29,5.374%,"2,870,370,163",/market-activity/stocks/vera
+DXCM,"DexCom, Inc. Common Stock",$65.49,0.24,0.368%,"2,839,734,091",/market-activity/stocks/dxcm
+SLNO,"Soleno Therapeutics, Inc. Common Stock",$51.37,-1.31,-2.487%,"2,759,083,984",/market-activity/stocks/slno
+BEAM,Beam Therapeutics Inc. Common Stock,$27.09,-1.82,-6.295%,"2,748,956,233",/market-activity/stocks/beam
+RCUS,"Arcus Biosciences, Inc. Common Stock",$25.45,0.19,0.752%,"2,747,926,491",/market-activity/stocks/rcus
+OCUL,"Ocular Therapeutix, Inc. Common Stock",$12.58,0.15,1.207%,"2,680,137,198",/market-activity/stocks/ocul
+TERN,"Terns Pharmaceuticals, Inc. Common Stock",$29.36,2.23,8.22%,"2,644,742,370",/market-activity/stocks/tern
+SUPN,"Supernus Pharmaceuticals, Inc. Common Stock",$45.68,0.58,1.286%,"2,619,261,508",/market-activity/stocks/supn
+SYRE,"Spyre Therapeutics, Inc. Common Stock",$33.45,-0.06,-0.179%,"2,595,456,749",/market-activity/stocks/syre
+BKD,Brookdale Senior Living Inc. Common Stock,$10.78,0.14,1.316%,"2,561,925,126",/market-activity/stocks/bkd
+LFST,"LifeStance Health Group, Inc. Common Stock",$6.48,0.02,0.31%,"2,520,721,821",/market-activity/stocks/lfst
+EWTX,"Edgewise Therapeutics, Inc. Common Stock",$23.59,-0.12,-0.506%,"2,497,436,358",/market-activity/stocks/ewtx
+CON,"Concentra Group Holdings Parent, Inc. Common Stock",$19.47,-0.07,-0.358%,"2,495,473,833",/market-activity/stocks/con
+RXRX,"Recursion Pharmaceuticals, Inc. Class A Common Stock",$4.71,-0.21,-4.268%,"2,448,435,025",/market-activity/stocks/rxrx
+ITGR,Integer Holdings Corporation Common Stock,$69.84,-0.78,-1.105%,"2,447,083,672",/market-activity/stocks/itgr
+HTFL,"Heartflow, Inc. Common Stock",$27.53,-1.405,-4.856%,"2,344,419,534",/market-activity/stocks/htfl
+SRPT,"Sarepta Therapeutics, Inc. Common Stock (DE)",$22.26,-0.56,-2.454%,"2,332,562,783",/market-activity/stocks/srpt
+EYE,"National Vision Holdings, Inc. Common Stock",$29.28,1.13,4.014%,"2,322,183,858",/market-activity/stocks/eye
+HRMY,"Harmony Biosciences Holdings, Inc. Common Stock",$39.83,1.58,4.131%,"2,294,062,939",/market-activity/stocks/hrmy
+WRBY,Warby Parker Inc. Class A Common Stock,$18.77,0.35,1.90%,"2,293,033,540",/market-activity/stocks/wrby
+IBRX,"ImmunityBio, Inc. Common Stock",$2.29,-0.01,-0.435%,"2,255,570,260",/market-activity/stocks/ibrx
+ADPT,Adaptive Biotechnologies Corporation Common Stock,$14.75,-2.71,-15.521%,"2,251,811,523",/market-activity/stocks/adpt
+XRAY,DENTSPLY SIRONA Inc. Common Stock,$11.25,-0.02,-0.177%,"2,244,959,651",/market-activity/stocks/xray
+SGRY,"Surgery Partners, Inc. Common Stock",$17.19,-0.19,-1.093%,"2,223,385,181",/market-activity/stocks/sgry
+ZBIO,"Zenas BioPharma, Inc. Common Stock",$39.38,1.27,3.332%,"2,113,885,557",/market-activity/stocks/zbio
+AORT,"Artivion, Inc. Common Stock",$44.59,-0.82,-1.806%,"2,112,448,530",/market-activity/stocks/aort
+GPCR,Structure Therapeutics Inc. American Depositary Shares,$34.56,1.71,5.205%,"2,097,019,238",/market-activity/stocks/gpcr
+ADUS,Addus HomeCare Corporation Common Stock,$113.19,-0.97,-0.85%,"2,092,121,444",/market-activity/stocks/adus
+NHC,National HealthCare Corporation Common Stock,$134.73,-1.86,-1.362%,"2,090,370,037",/market-activity/stocks/nhc
+PGNY,"Progyny, Inc. Common Stock",$24.02,-0.13,-0.538%,"2,070,803,929",/market-activity/stocks/pgny
+MAZE,"Maze Therapeutics, Inc. Common Stock",$41.71,-0.89,-2.089%,"2,007,062,009",/market-activity/stocks/maze
+PRCT,PROCEPT BioRobotics Corporation Common Stock,$35.86,0.43,1.214%,"2,003,806,202",/market-activity/stocks/prct
+ZYME,Zymeworks Inc. Common Stock,$26.69,0.17,0.641%,"1,997,387,092",/market-activity/stocks/zyme
+ATRC,"AtriCure, Inc. Common Stock",$39.86,0.61,1.554%,"1,981,719,142",/market-activity/stocks/atrc
+TWST,Twist Bioscience Corporation Common Stock,$32.30,-0.51,-1.554%,"1,975,081,240",/market-activity/stocks/twst
+CLDX,"Celldex Therapeutics, Inc.",$29.45,-0.15,-0.507%,"1,956,936,921",/market-activity/stocks/cldx
+AVAH,Aveanna Healthcare Holdings Inc. Common Stock,$9.31,0.175,1.916%,"1,944,964,976",/market-activity/stocks/avah
+PRKS,United Parks & Resorts Inc. Common Stock,$35.53,-0.54,-1.497%,"1,938,183,209",/market-activity/stocks/prks
+LMAT,"LeMaitre Vascular, Inc. Common Stock",$84.53,-1.17,-1.365%,"1,917,647,073",/market-activity/stocks/lmat
+MD,"Pediatrix Medical Group, Inc. Common Stock",$22.12,-0.17,-0.763%,"1,899,607,778",/market-activity/stocks/md
+DNTH,"Dianthus Therapeutics, Inc. Common Stock",$44.26,-0.45,-1.006%,"1,897,692,424",/market-activity/stocks/dnth
+QDEL,QuidelOrtho Corporation Common Stock,$27.76,-0.06,-0.216%,"1,885,779,550",/market-activity/stocks/qdel
+OLMA,"Olema Pharmaceuticals, Inc. Common Stock",$27.21,-0.43,-1.556%,"1,868,236,505",/market-activity/stocks/olma
+OGN,Organon & Co. Common Stock ,$7.14,UNCH,--,"1,856,277,992",/market-activity/stocks/ogn
+PRGO,Perrigo Company plc Ordinary Shares,$13.44,-0.05,-0.371%,"1,849,666,681",/market-activity/stocks/prgo
+SEM,Select Medical Holdings Corporation Common Stock,$14.91,-0.12,-0.798%,"1,846,120,282",/market-activity/stocks/sem
+ANIP,"ANI Pharmaceuticals, Inc.",$81.77,-0.97,-1.172%,"1,836,404,397",/market-activity/stocks/anip
+VCEL,Vericel Corporation Common Stock,$36.23,-0.56,-1.522%,"1,832,296,962",/market-activity/stocks/vcel
+IMNM,"Immunome, Inc. Common Stock",$19.76,-0.33,-1.643%,"1,812,195,074",/market-activity/stocks/imnm
+SION,"Sionna Therapeutics, Inc. Common Stock",$40.29,-0.59,-1.443%,"1,798,093,869",/market-activity/stocks/sion
+SNDX,"Syndax Pharmaceuticals, Inc. Common Stock",$20.32,0.58,2.938%,"1,766,109,508",/market-activity/stocks/sndx
+STOK,"Stoke Therapeutics, Inc. Common Stock",$30.87,-0.18,-0.58%,"1,763,206,421",/market-activity/stocks/stok
+MNKD,MannKind Corporation Common Stock,$5.68,-0.03,-0.525%,"1,744,159,196",/market-activity/stocks/mnkd
+CDRE,"Cadre Holdings, Inc. Common Stock",$42.85,-0.95,-2.169%,"1,742,445,715",/market-activity/stocks/cdre
+TRVI,"Trevi Therapeutics, Inc. Common Stock",$13.47,UNCH,--,"1,727,259,905",/market-activity/stocks/trvi
+HROW,"Harrow, Inc. Common Stock",$45.75,-1.02,-2.181%,"1,694,463,475",/market-activity/stocks/hrow
+UFPT,"UFP Technologies, Inc. Common Stock",$217.14,0.91,0.421%,"1,674,680,090",/market-activity/stocks/ufpt
+AGIO,"Agios Pharmaceuticals, Inc. Common Stock",$27.73,0.31,1.131%,"1,617,042,007",/market-activity/stocks/agio
+BCRX,"BioCryst Pharmaceuticals, Inc. Common Stock",$7.59,-0.24,-3.065%,"1,598,023,070",/market-activity/stocks/bcrx
+TRUP,"Trupanion, Inc. Common Stock",$36.93,-0.10,-0.27%,"1,595,308,197",/market-activity/stocks/trup
+PAHC,Phibro Animal Health Corporation Class A Common Stock,$39.16,-1.61,-3.949%,"1,587,296,089",/market-activity/stocks/pahc
+AMLX,"Amylyx Pharmaceuticals, Inc. Common Stock",$14.20,-0.29,-2.001%,"1,559,437,880",/market-activity/stocks/amlx
+INVA,"Innoviva, Inc. Common Stock",$20.74,-0.06,-0.288%,"1,550,710,346",/market-activity/stocks/inva
+ENOV,Enovis Corporation Common Stock,$27.02,-0.94,-3.362%,"1,545,257,075",/market-activity/stocks/enov
+NEO,"NeoGenomics, Inc. Common Stock",$11.90,-0.27,-2.219%,"1,539,714,832",/market-activity/stocks/neo
+AXGN,"Axogen, Inc. Common Stock",$33.32,0.465,1.415%,"1,536,794,669",/market-activity/stocks/axgn
+COLL,"Collegium Pharmaceutical, Inc. Common Stock",$47.91,0.48,1.012%,"1,514,481,860",/market-activity/stocks/coll
+UPB,"Upstream Bio, Inc. Common Stock",$27.75,0.01,0.036%,"1,499,570,900",/market-activity/stocks/upb
+ORKA,"Oruka Therapeutics, Inc. Common Stock",$30.84,-0.09,-0.291%,"1,492,940,715",/market-activity/stocks/orka
+ARDX,"Ardelyx, Inc. Common Stock",$5.98,0.06,1.014%,"1,452,986,350",/market-activity/stocks/ardx
+MBX,"MBX Biosciences, Inc. Common Stock",$31.97,1.43,4.682%,"1,435,526,595",/market-activity/stocks/mbx
+ACHC,"Acadia Healthcare Company, Inc. Common Stock",$15.47,0.83,5.669%,"1,427,233,828",/market-activity/stocks/achc
+TNDM,"Tandem Diabetes Care, Inc. Common Stock",$20.92,0.21,1.014%,"1,418,425,350",/market-activity/stocks/tndm
+RAPP,"Rapport Therapeutics, Inc. Common Stock",$29.50,0.80,2.787%,"1,406,003,571",/market-activity/stocks/rapp
+NRIX,"Nurix Therapeutics, Inc. Common stock",$18.09,0.07,0.388%,"1,390,821,357",/market-activity/stocks/nrix
+TSHA,"Taysha Gene Therapies, Inc. Common Stock",$5.05,-0.01,-0.198%,"1,383,292,834",/market-activity/stocks/tsha
+KMTS,"Kestra Medical Technologies, Ltd. Common Stock",$24.07,-0.43,-1.755%,"1,380,382,150",/market-activity/stocks/kmts
+SANA,"Sana Biotechnology, Inc. Common Stock",$5.13,-0.05,-0.965%,"1,366,458,196",/market-activity/stocks/sana
+TDOC,"Teladoc Health, Inc. Common Stock",$7.59,-0.19,-2.442%,"1,347,023,144",/market-activity/stocks/tdoc
+CLOV,"Clover Health Investments, Corp. Class A Common Stock",$2.58,-0.08,-3.008%,"1,333,029,382",/market-activity/stocks/clov
+RLAY,"Relay Therapeutics, Inc. Common Stock",$7.68,-0.32,-4.00%,"1,331,115,917",/market-activity/stocks/rlay
+HCSG,"Healthcare Services Group, Inc. Common Stock",$18.88,0.09,0.479%,"1,330,200,010",/market-activity/stocks/hcsg
+SVRA,Savara Inc. Common Stock,$6.50,0.13,2.041%,"1,322,540,993",/market-activity/stocks/svra
+FTRE,Fortrea Holdings Inc. Common Stock,$14.24,-0.26,-1.793%,"1,315,776,000",/market-activity/stocks/ftre
+INBX,"Inhibrx Biosciences, Inc. Common Stock",$89.47,2.06,2.357%,"1,301,228,239",/market-activity/stocks/inbx
+NEOG,Neogen Corporation Common Stock,$5.98,0.05,0.843%,"1,299,445,783",/market-activity/stocks/neog
+SDGR,"Schrodinger, Inc. Common Stock",$17.64,-0.78,-4.235%,"1,299,445,361",/market-activity/stocks/sdgr
+TNGX,"Tango Therapeutics, Inc.",$9.63,-0.27,-2.727%,"1,296,140,201",/market-activity/stocks/tngx
+ELVN,"Enliven Therapeutics, Inc. Common Stock",$21.81,0.41,1.916%,"1,294,364,984",/market-activity/stocks/elvn
+BBNX,"Beta Bionics, Inc. Common Stock",$29.38,-0.62,-2.067%,"1,293,443,659",/market-activity/stocks/bbnx
+KOD,Kodiak Sciences Inc Common Stock,$24.34,-0.42,-1.696%,"1,291,198,738",/market-activity/stocks/kod
+DVAX,Dynavax Technologies Corporation Common Stock,$10.89,-0.07,-0.639%,"1,278,757,902",/market-activity/stocks/dvax
+AHCO,AdaptHealth Corp. Common Stock,$9.42,0.04,0.426%,"1,275,697,226",/market-activity/stocks/ahco
+PGEN,"Precigen, Inc. Common Stock",$3.60,-0.15,-4.00%,"1,273,768,196",/market-activity/stocks/pgen
+STAA,STAAR Surgical Company Common Stock,$25.38,-1.22,-4.586%,"1,262,450,767",/market-activity/stocks/staa
+ARDT,"Ardent Health, Inc. Common Stock",$8.79,-0.08,-0.902%,"1,258,619,716",/market-activity/stocks/ardt
+CNMD,CONMED Corporation Common Stock,$40.07,-4.17,-9.426%,"1,240,885,917",/market-activity/stocks/cnmd
+XNCR,"Xencor, Inc. Common Stock",$17.30,-0.84,-4.631%,"1,235,401,114",/market-activity/stocks/xncr
+AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",$26.77,-0.38,-1.40%,"1,230,139,698",/market-activity/stocks/amph
+CAPR,"Capricor Therapeutics, Inc. Common Stock",$26.89,1.49,5.866%,"1,229,369,793",/market-activity/stocks/capr
+ANAB,"AnaptysBio, Inc. Common Stock",$44.35,1.05,2.425%,"1,227,983,645",/market-activity/stocks/anab
+BLFS,"BioLife Solutions, Inc. Common Stock",$25.46,-0.37,-1.432%,"1,225,849,251",/market-activity/stocks/blfs
+MNMD,Mind Medicine (MindMed) Inc. Common Shares,$12.35,-0.08,-0.644%,"1,216,589,596",/market-activity/stocks/mnmd
+IRMD,iRadimed Corporation Common Stock,$94.57,0.65,0.692%,"1,203,039,723",/market-activity/stocks/irmd
+SEPN,"Septerna, Inc. Common Stock",$26.76,0.60,2.294%,"1,198,157,378",/market-activity/stocks/sepn
+PVLA,"Palvella Therapeutics, Inc. Common Stock",$100.49,6.69,7.132%,"1,189,448,880",/market-activity/stocks/pvla
+ALMS,Alumis Inc. Common Stock,$11.12,2.82,33.976%,"1,160,854,641",/market-activity/stocks/alms
+NKTR,Nektar Therapeutics  Common Stock,$56.90,-0.79,-1.369%,"1,157,436,414",/market-activity/stocks/nktr
+TYRA,"Tyra Biosciences, Inc. Common Stock",$21.50,-0.61,-2.759%,"1,147,500,107",/market-activity/stocks/tyra
+USPH,"U.S. Physical Therapy, Inc. Common Stock",$75.03,-1.27,-1.664%,"1,140,765,049",/market-activity/stocks/usph
+BCAX,Bicara Therapeutics Inc. Common Stock,$18.20,-0.56,-2.985%,"1,138,544,534",/market-activity/stocks/bcax
+GLUE,"Monte Rosa Therapeutics, Inc. Common Stock",$17.41,0.15,0.869%,"1,133,700,219",/market-activity/stocks/glue
+CSTL,"Castle Biosciences, Inc. Common Stock",$38.64,-0.98,-2.473%,"1,127,849,784",/market-activity/stocks/cstl
+NVAX,"Novavax, Inc. Common Stock",$6.91,0.05,0.729%,"1,122,868,055",/market-activity/stocks/nvax
+NTLA,"Intellia Therapeutics, Inc. Common Stock",$9.61,-0.13,-1.335%,"1,113,125,589",/market-activity/stocks/ntla
+LFMDP,"LifeMD, Inc. 8.875% Series A Cumulative Perpetual Preferred Stock",$22.9118,0.1618,0.711%,"1,102,879,770",/market-activity/stocks/lfmdp
+XERS,"Xeris Biopharma Holdings, Inc. Common Stock",$6.51,-0.21,-3.125%,"1,080,167,121",/market-activity/stocks/xers
+ORIC,"Oric Pharmaceuticals, Inc. Common Stock",$11.00,-0.39,-3.424%,"1,071,282,069",/market-activity/stocks/oric
+KURA,"Kura Oncology, Inc. Common Stock",$11.95,-0.03,-0.25%,"1,039,859,340",/market-activity/stocks/kura
+PHAT,"Phathom Pharmaceuticals, Inc. Common Stock",$14.58,-0.12,-0.816%,"1,037,198,455",/market-activity/stocks/phat
+PCRX,"Pacira BioSciences, Inc. Common Stock",$23.99,0.01,0.042%,"1,032,080,387",/market-activity/stocks/pcrx
+IART,Integra LifeSciences Holdings Corporation Common Stock,$13.24,-0.33,-2.432%,"1,031,291,550",/market-activity/stocks/iart
+OPK,"OPKO Health, Inc. Common Stock",$1.34,-0.01,-0.741%,"1,028,719,715",/market-activity/stocks/opk
+MDXG,"MiMedx Group, Inc Common Stock",$6.93,0.07,1.02%,"1,026,347,962",/market-activity/stocks/mdxg
+AVBP,"ArriVent BioPharma, Inc. Common Stock",$24.69,0.34,1.396%,"1,019,236,803",/market-activity/stocks/avbp
+OMDA,"Omada Health, Inc. Common Stock",$17.49,0.10,0.575%,"1,012,811,742",/market-activity/stocks/omda
+BHVN,Biohaven Ltd. Common Shares ,$9.55,-0.06,-0.624%,"1,010,916,730",/market-activity/stocks/bhvn
+PNTG,"The Pennant Group, Inc. Common Stock ",$29.21,0.27,0.933%,"1,010,482,561",/market-activity/stocks/pntg
+JANX,"Janux Therapeutics, Inc. Common Stock",$16.51,0.11,0.671%,"993,040,294",/market-activity/stocks/janx
+CMPX,"Compass Therapeutics, Inc. Common Stock",$5.53,-0.01,-0.181%,"983,577,424",/market-activity/stocks/cmpx
+SPRY,"ARS Pharmaceuticals, Inc. Common Stock",$9.93,-0.04,-0.401%,"981,566,707",/market-activity/stocks/spry
+YDES,YD Bio Limited Ordinary Shares,$13.905,1.135,8.888%,"977,797,153",/market-activity/stocks/ydes
+RZLT,"Rezolute, Inc. Common Stock (NV)",$10.42,0.72,7.423%,"966,220,883",/market-activity/stocks/rzlt
+MLTX,MoonLake Immunotherapeutics Class A Ordinary Shares,$14.90,-0.095,-0.634%,"957,037,758",/market-activity/stocks/mltx
+RAPT,"RAPT Therapeutics, Inc. Common Stock",$34.465,-0.005,-0.015%,"955,055,169",/market-activity/stocks/rapt
+CDNA,"CareDx, Inc. Common Stock",$18.53,-0.88,-4.534%,"953,046,801",/market-activity/stocks/cdna
+MRVI,"Maravai LifeSciences Holdings, Inc. Class A Common Stock",$3.70,UNCH,--,"946,115,275",/market-activity/stocks/mrvi
+ERAS,"Erasca, Inc. Common Stock",$3.27,0.08,2.508%,"927,737,602",/market-activity/stocks/eras
+VIR,"Vir Biotechnology, Inc. Common Stock",$6.50,-0.28,-4.13%,"904,312,708",/market-activity/stocks/vir
+PLSE,"Pulse Biosciences, Inc Common Stock (DE)",$13.27,UNCH,--,"899,275,760",/market-activity/stocks/plse
+ESPR,"Esperion Therapeutics, Inc. Common Stock",$3.73,-0.06,-1.583%,"891,706,620",/market-activity/stocks/espr
+RIGL,"Rigel Pharmaceuticals, Inc. Common Stock",$48.92,1.54,3.25%,"887,963,748",/market-activity/stocks/rigl
+IOVA,"Iovance Biotherapeutics, Inc. Common Stock",$2.20,UNCH,--,"873,329,534",/market-activity/stocks/iova
+FLGT,"Fulgent Genetics, Inc. Common Stock",$27.79,-0.51,-1.802%,"859,055,374",/market-activity/stocks/flgt
+SIBN,"SI-BONE, Inc. Common Stock",$19.68,0.44,2.287%,"853,939,879",/market-activity/stocks/sibn
+TLRY,"Tilray Brands, Inc. Common Stock ",$7.35,0.13,1.801%,"853,687,109",/market-activity/stocks/tlry
+PSNL,"Personalis, Inc. Common Stock",$9.56,-0.92,-8.779%,"848,969,567",/market-activity/stocks/psnl
+GERN,Geron Corporation Common Stock,$1.31,0.04,3.15%,"836,245,410",/market-activity/stocks/gern
+LENZ,"LENZ Therapeutics, Inc. Common Stock",$26.72,-1.18,-4.229%,"836,067,972",/market-activity/stocks/lenz
+REPL,"Replimune Group, Inc. Common Stock",$10.61,0.08,0.76%,"832,283,774",/market-activity/stocks/repl
+CRMD,CorMedix Inc. Common Stock,$10.56,-0.08,-0.752%,"832,012,315",/market-activity/stocks/crmd
+ARVN,"Arvinas, Inc. Common Stock",$12.79,0.24,1.912%,"821,428,720",/market-activity/stocks/arvn
+DAWN,"Day One Biopharmaceuticals, Inc. Common Stock",$7.92,-0.42,-5.036%,"813,189,976",/market-activity/stocks/dawn
+AQST,"Aquestive Therapeutics, Inc. Common Stock",$6.38,-0.06,-0.932%,"778,379,861",/market-activity/stocks/aqst
+BFLY,"Butterfly Network, Inc. Class A Common Stock",$3.06,UNCH,--,"772,962,463",/market-activity/stocks/bfly
+GOSS,"Gossamer Bio, Inc. Common Stock",$3.33,0.01,0.301%,"770,749,303",/market-activity/stocks/goss
+OMER,Omeros Corporation Common Stock,$10.85,-0.18,-1.632%,"769,269,980",/market-activity/stocks/omer
+GYRE,"Gyre Therapeutics, Inc. Common Stock",$7.98,0.08,1.013%,"768,738,593",/market-activity/stocks/gyre
+MPLT,"MapLight Therapeutics, Inc. Common Stock",$18.49,0.15,0.818%,"766,020,768",/market-activity/stocks/mplt
+ATXS,"Astria Therapeutics, Inc. Common Stock",$12.93,-0.19,-1.448%,"738,106,955",/market-activity/stocks/atxs
+CBLL,"CeriBell, Inc. Common Stock",$19.72,0.57,2.977%,"731,527,007",/market-activity/stocks/cbll
+PROK,ProKidney Corp. Class A Ordinary Shares,$2.34,-0.23,-8.949%,"703,952,447",/market-activity/stocks/prok
+MGTX,MeiraGTx Holdings plc Ordinary Shares,$8.65,0.05,0.581%,"696,246,190",/market-activity/stocks/mgtx
+VSTM,"Verastem, Inc. Common Stock",$10.36,-0.24,-2.264%,"691,799,422",/market-activity/stocks/vstm
+EMBC,Embecta Corp. Common Stock,$11.69,0.16,1.388%,"684,015,111",/market-activity/stocks/embc
+INNV,InnovAge Holding Corp. Common Stock,$5.03,-0.12,-2.33%,"682,477,598",/market-activity/stocks/innv
+LXEO,"Lexeo Therapeutics, Inc. Common Stock",$9.35,0.26,2.86%,"682,431,507",/market-activity/stocks/lxeo
+PRME,"Prime Medicine, Inc. Common Stock",$3.74,-0.11,-2.857%,"675,109,861",/market-activity/stocks/prme
+CTMX,"CytomX Therapeutics, Inc. Common Stock",$3.95,-0.13,-3.186%,"669,269,810",/market-activity/stocks/ctmx
+RGNX,REGENXBIO Inc. Common Stock,$13.16,0.18,1.387%,"666,199,812",/market-activity/stocks/rgnx
+MYGN,"Myriad Genetics, Inc. Common Stock",$7.09,-0.24,-3.274%,"660,885,289",/market-activity/stocks/mygn
+KROS,"Keros Therapeutics, Inc. Common Stock",$21.69,1.42,7.005%,"660,809,037",/market-activity/stocks/kros
+CRVS,"Corvus Pharmaceuticals, Inc. Common Stock",$8.81,UNCH,--,"657,947,292",/market-activity/stocks/crvs
+STEX,Streamex Corp. Common Stock,$4.31,-0.31,-6.71%,"640,512,061",/market-activity/stocks/stex
+CGEM,"Cullinan Therapeutics, Inc. Common Stock",$10.59,0.01,0.095%,"625,617,583",/market-activity/stocks/cgem
+EBS,Emergent BioSolutions Inc. Common Stock,$11.90,-0.15,-1.245%,"624,987,572",/market-activity/stocks/ebs
+TCMD,"Tactile Systems Technology, Inc. Common Stock",$27.91,1.10,4.103%,"623,386,094",/market-activity/stocks/tcmd
+VTYX,"Ventyx Biosciences, Inc. Common Stock",$8.72,0.72,9.00%,"622,247,323",/market-activity/stocks/vtyx
+JBIO,"Jade Biosciences, Inc. Common Stock",$13.50,1.10,8.871%,"621,056,768",/market-activity/stocks/jbio
+FDMT,"4D Molecular Therapeutics, Inc. Common Stock",$10.70,-0.49,-4.379%,"611,345,303",/market-activity/stocks/fdmt
+ORGO,Organogenesis Holdings Inc. Class A Common Stock,$4.74,-0.18,-3.659%,"601,563,553",/market-activity/stocks/orgo
+PRTA,Prothena Corporation plc Ordinary Shares,$11.07,-0.09,-0.806%,"595,897,901",/market-activity/stocks/prta
+BVS,Bioventus Inc. Class A Common Stock,$7.09,-0.53,-6.955%,"586,791,187",/market-activity/stocks/bvs
+SNDA,"Sonida Senior Living, Inc. Common Stock",$30.79,0.49,1.617%,"577,928,485",/market-activity/stocks/snda
+IRWD,"Ironwood Pharmaceuticals, Inc. Class A Common Stock",$3.48,-0.25,-6.702%,"566,121,692",/market-activity/stocks/irwd
+DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock",$9.25,0.04,0.434%,"560,459,526",/market-activity/stocks/dna
+DSGN,"Design Therapeutics, Inc. Common Stock",$9.77,-0.05,-0.509%,"556,535,906",/market-activity/stocks/dsgn
+ANGO,"AngioDynamics, Inc. Common Stock",$13.47,-0.15,-1.101%,"554,961,899",/market-activity/stocks/ango
+ASMB,"Assembly Biosciences, Inc. Common Stock",$35.01,-0.26,-0.737%,"553,758,071",/market-activity/stocks/asmb
+ANNX,"Annexon, Inc. Common Stock",$4.61,0.12,2.673%,"551,507,226",/market-activity/stocks/annx
+ALT,"Altimmune, Inc. Common Stock",$5.24,-0.07,-1.318%,"546,291,867",/market-activity/stocks/alt
+NPCE,"Neuropace, Inc. Common Stock",$16.40,-0.57,-3.359%,"546,246,838",/market-activity/stocks/npce
+ABSI,Absci Corporation Common Stock,$3.58,-0.15,-4.021%,"538,330,081",/market-activity/stocks/absi
+MNPR,Monopar Therapeutics Inc. Common Stock,$80.38,0.91,1.145%,"537,146,102",/market-activity/stocks/mnpr
+LYEL,"Lyell Immunopharma, Inc. Common Stock",$25.25,-0.21,-0.825%,"535,759,979",/market-activity/stocks/lyel
+AVNS,"Avanos Medical, Inc. Common Stock",$11.26,0.13,1.168%,"522,676,893",/market-activity/stocks/avns
+IVVD,"Invivyd, Inc. Common Stock",$2.23,0.01,0.45%,"519,863,920",/market-activity/stocks/ivvd
+RXST,"RxSight, Inc. Common Stock",$12.63,0.14,1.121%,"519,303,163",/market-activity/stocks/rxst
+NAGE,"Niagen Bioscience, Inc. Common Stock",$6.45,-0.25,-3.731%,"514,749,597",/market-activity/stocks/nage
+TALK,"Talkspace, Inc. Common Stock",$3.08,-0.09,-2.839%,"510,220,862",/market-activity/stocks/talk
+LXRX,"Lexicon Pharmaceuticals, Inc. Common Stock",$1.40,-0.02,-1.408%,"508,758,152",/market-activity/stocks/lxrx
+CYH,"Community Health Systems, Inc. Common Stock",$3.57,-0.06,-1.653%,"494,515,026",/market-activity/stocks/cyh
+LBRX,LB Pharmaceuticals Inc Common Stock,$19.50,0.25,1.299%,"493,332,489",/market-activity/stocks/lbrx
+ZVRA,"Zevra Therapeutics, Inc. Common Stock",$8.71,0.05,0.577%,"490,351,530",/market-activity/stocks/zvra
+NUS,"Nu Skin Enterprises, Inc. Common Stock",$9.98,0.17,1.733%,"486,525,758",/market-activity/stocks/nus
+FULC,"Fulcrum Therapeutics, Inc. Common Stock",$8.90,0.14,1.598%,"481,654,098",/market-activity/stocks/fulc
+CYRX,"CryoPort, Inc. Common Stock",$9.54,-0.34,-3.441%,"477,657,344",/market-activity/stocks/cyrx
+EHAB,"Enhabit, Inc. Common Stock",$9.33,0.02,0.215%,"472,164,010",/market-activity/stocks/ehab
+KIDS,OrthoPediatrics Corp. Common Stock,$18.41,0.24,1.321%,"461,673,645",/market-activity/stocks/kids
+BNTC,Benitec Biopharma Inc. Common Stock,$13.58,0.40,3.035%,"459,849,029",/market-activity/stocks/bntc
+DMAC,DiaMedica Therapeutics Inc. Common Stock,$8.78,0.15,1.738%,"457,239,914",/market-activity/stocks/dmac
+SLDB,Solid Biosciences Inc. Common Stock,$5.77,-0.15,-2.534%,"449,542,079",/market-activity/stocks/sldb
+EOLS,"Evolus, Inc. Common Stock",$6.85,0.04,0.587%,"444,015,520",/market-activity/stocks/eols
+SIGA,SIGA Technologies Inc. Common Stock,$6.20,-0.14,-2.208%,"443,990,072",/market-activity/stocks/siga
+PRTC,PureTech Health plc American Depositary Shares,$18.05,1.26,7.504%,"436,239,692",/market-activity/stocks/prtc
+ETON,"Eton Pharmaceuticals, Inc. Common Stock",$16.26,-0.55,-3.272%,"436,053,119",/market-activity/stocks/eton
+SGHT,"Sight Sciences, Inc. Common Stock",$8.05,-0.29,-3.477%,"425,617,435",/market-activity/stocks/sght
+ENTA,"Enanta Pharmaceuticals, Inc. Common Stock",$14.60,0.51,3.62%,"421,393,975",/market-activity/stocks/enta
+ANRO,"Alto Neuroscience, Inc. Common Stock",$13.43,0.05,0.374%,"417,220,879",/market-activity/stocks/anro
+BIOA,"BioAge Labs, Inc. Common Stock",$11.61,1.11,10.571%,"416,276,980",/market-activity/stocks/bioa
+IMRX,Immuneering Corporation Class A Common Stock,$6.40,-0.29,-4.335%,"413,247,789",/market-activity/stocks/imrx
+AKBA,"Akebia Therapeutics, Inc. Common Stock",$1.54,-0.05,-3.145%,"408,663,629",/market-activity/stocks/akba
+AURA,"Aura Biosciences, Inc. Common Stock",$6.43,-0.02,-0.31%,"408,326,020",/market-activity/stocks/aura
+LCTX,"Lineage Cell Therapeutics, Inc. Common Stock",$1.72,-0.02,-1.149%,"396,163,364",/market-activity/stocks/lctx
+TRDA,"Entrada Therapeutics, Inc. Common Stock",$10.32,0.16,1.575%,"394,422,474",/market-activity/stocks/trda
+AVXL,Anavex Life Sciences Corp. Common Stock,$4.40,-0.05,-1.124%,"393,131,671",/market-activity/stocks/avxl
+CLPT,"ClearPoint Neuro, Inc. Common Stock",$13.54,-0.52,-3.698%,"384,851,590",/market-activity/stocks/clpt
+SBC,SBC Medical Group Holdings Incorporated Common Stock,$3.75,UNCH,--,"384,663,536",/market-activity/stocks/sbc
+PYXS,"Pyxis Oncology, Inc. Common Stock",$4.22,-0.10,-2.315%,"384,039,049",/market-activity/stocks/pyxs
+NATR,"Nature's Sunshine Products, Inc. Common Stock",$21.88,0.71,3.354%,"382,802,918",/market-activity/stocks/natr
+OCGN,"Ocugen, Inc. Common Stock",$1.22,-0.02,-1.613%,"381,030,537",/market-activity/stocks/ocgn
+PEPG,PepGen Inc. Common Stock,$5.44,0.13,2.448%,"373,990,339",/market-activity/stocks/pepg
+TECX,"Tectonic Therapeutic, Inc. Common Stock",$19.92,-1.06,-5.052%,"372,828,298",/market-activity/stocks/tecx
+NMRA,"Neumora Therapeutics, Inc. Common Stock",$2.22,-0.055,-2.418%,"370,937,833",/market-activity/stocks/nmra
+XOMA,XOMA Royalty Corporation Common Stock,$29.91,-1.22,-3.919%,"370,378,611",/market-activity/stocks/xoma
+GALT,Galectin Therapeutics Inc. Common Stock,$5.74,-0.56,-8.889%,"370,073,826",/market-activity/stocks/galt
+USNA,"USANA Health Sciences, Inc. Common Stock",$19.87,0.26,1.326%,"363,240,629",/market-activity/stocks/usna
+NRC,National Research Corporation Common Stock (Delaware),$15.87,-0.45,-2.757%,"359,573,271",/market-activity/stocks/nrc
+RCKT,"Rocket Pharmaceuticals, Inc. Common Stock",$3.32,-0.10,-2.924%,"359,297,797",/market-activity/stocks/rckt
+TLSI,"TriSalus Life Sciences, Inc. Common Stock",$7.06,0.36,5.373%,"352,748,036",/market-activity/stocks/tlsi
+CARL,"Carlsmed, Inc. Common Stock",$13.26,-1.15,-7.981%,"352,621,960",/market-activity/stocks/carl
+XFOR,"X4 Pharmaceuticals, Inc. Common Stock",$3.98,0.18,4.737%,"347,998,018",/market-activity/stocks/xfor
+DCTH,"Delcath Systems, Inc. Common Stock",$9.78,-0.24,-2.395%,"345,368,162",/market-activity/stocks/dcth
+KYTX,"Kyverna Therapeutics, Inc. Common Stock",$7.80,-0.04,-0.51%,"341,610,126",/market-activity/stocks/kytx
+VYGR,"Voyager Therapeutics, Inc. Common Stock",$4.28,-0.07,-1.609%,"338,646,110",/market-activity/stocks/vygr
+XOMAP,XOMA Royalty Corporation 8.625% Series A Cumulative Perpetual Preferred Stock,$26.50,-0.18,-0.675%,"328,152,230",/market-activity/stocks/xomap
+CV,"CapsoVision, Inc. Common Stock",$6.90,0.50,7.813%,"323,218,253",/market-activity/stocks/cv
+CTNM,"Contineum Therapeutics, Inc. Class A Common Stock",$11.04,0.06,0.546%,"322,174,921",/market-activity/stocks/ctnm
+BBOT,"BridgeBio Oncology Therapeutics, Inc. Common Stock  ",$13.69,2.15,18.631%,"321,838,210",/market-activity/stocks/bbot
+ALLO,"Allogene Therapeutics, Inc. Common Stock",$1.43,-0.01,-0.694%,"321,364,106",/market-activity/stocks/allo
+VNDA,Vanda Pharmaceuticals Inc. Common Stock,$5.39,0.19,3.654%,"318,530,836",/market-activity/stocks/vnda
+AVTX,"Avalo Therapeutics, Inc. Common Stock",$17.56,-0.39,-2.173%,"318,432,478",/market-activity/stocks/avtx
+LRMR,"Larimar Therapeutics, Inc. Common Stock",$3.70,0.02,0.543%,"316,684,450",/market-activity/stocks/lrmr
+ACRS,"Aclaris Therapeutics, Inc. Common Stock",$2.92,-0.09,-2.99%,"316,368,098",/market-activity/stocks/acrs
+XOMAO,XOMA Royalty Corporation Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,$25.44,0.21,0.832%,"315,026,140",/market-activity/stocks/xomao
+RLMD,"Relmada Therapeutics, Inc. Common Stock",$4.24,0.24,6.00%,"310,934,557",/market-activity/stocks/rlmd
+TOI,"The Oncology Institute, Inc. Common Stock",$3.03,-0.20,-6.192%,"298,095,460",/market-activity/stocks/toi
+AARD,"Aardvark Therapeutics, Inc. Common Stock",$13.56,1.16,9.355%,"295,245,568",/market-activity/stocks/aard
+CADL,"Candel Therapeutics, Inc. Common Stock",$5.33,0.07,1.331%,"292,607,955",/market-activity/stocks/cadl
+ACTU,"Actuate Therapeutics, Inc. Common stock",$7.35,UNCH,--,"288,250,595",/market-activity/stocks/actu
+LFCR,"Lifecore Biomedical, Inc. Common Stock",$7.63,-0.14,-1.802%,"285,868,266",/market-activity/stocks/lfcr
+ARMP,"Armata Pharmaceuticals, Inc. Common Stock",$5.63,-0.31,-5.219%,"284,266,650",/market-activity/stocks/armp
+SMLR,"Semler Scientific, Inc. Common Stock",$18.67,-1.66,-8.165%,"283,035,240",/market-activity/stocks/smlr
+ALDX,"Aldeyra Therapeutics, Inc. Common Stock",$4.70,-0.18,-3.689%,"282,765,033",/market-activity/stocks/aldx
+OABI,"OmniAb, Inc. Common Stock",$1.95,-0.02,-1.015%,"280,713,030",/market-activity/stocks/oabi
+SNWV,"SANUWAVE Health, Inc. Common Stock",$32.695,-1.205,-3.555%,"280,397,682",/market-activity/stocks/snwv
+GUTS,"Fractyl Health, Inc. Common Stock",$2.04,0.06,3.03%,"279,570,658",/market-activity/stocks/guts
+SENS,"Senseonics Holdings, Inc. Common Stock",$6.62,-0.11,-1.634%,"270,483,005",/market-activity/stocks/sens
+AGL,"agilon health, inc. Common Stock",$0.6522,-0.0758,-10.412%,"270,390,122",/market-activity/stocks/agl
+PALI,"Palisade Bio, Inc. Common Stock",$1.80,UNCH,--,"268,205,778",/market-activity/stocks/pali
+PBYI,Puma Biotechnology Inc Common Stock,$5.30,0.01,0.189%,"267,072,867",/market-activity/stocks/pbyi
+ABEO,Abeona Therapeutics Inc. Common Stock,$4.87,UNCH,--,"263,911,928",/market-activity/stocks/abeo
+CCCC,"C4 Therapeutics, Inc. Common Stock",$2.67,0.08,3.089%,"258,761,496",/market-activity/stocks/cccc
+KRMD,"KORU Medical Systems, Inc. Common Stock (DE)",$5.57,-0.11,-1.937%,"258,017,188",/market-activity/stocks/krmd
+VMD,"Viemed Healthcare, Inc. Common Shares",$6.77,UNCH,--,"257,381,230",/market-activity/stocks/vmd
+TKNO,"Alpha Teknova, Inc. Common Stock",$4.80,-0.03,-0.621%,"256,940,035",/market-activity/stocks/tkno
+FBRX,"Forte Biosciences, Inc. Common Stock",$19.93,-0.63,-3.064%,"249,661,815",/market-activity/stocks/fbrx
+OBIO,"Orchestra BioMed Holdings, Inc. Ordinary Shares",$4.40,-0.28,-5.983%,"248,444,816",/market-activity/stocks/obio
+SLS,"SELLAS Life Sciences Group, Inc. Common Stock",$1.74,UNCH,--,"247,849,496",/market-activity/stocks/sls
+AVIR,"Atea Pharmaceuticals, Inc. Common Stock",$3.17,0.08,2.589%,"247,661,943",/market-activity/stocks/avir
+FHTX,Foghorn Therapeutics Inc. Common Stock,$4.36,-0.22,-4.803%,"246,563,620",/market-activity/stocks/fhtx
+ACHV,"Achieve Life Sciences, Inc. Common Shares",$4.62,-0.16,-3.347%,"245,941,025",/market-activity/stocks/achv
+CABA,"Cabaletta Bio, Inc. Common Stock",$2.55,-0.01,-0.391%,"245,476,270",/market-activity/stocks/caba
+HRTX,"Heron Therapeutics, Inc. Common Stock",$1.31,UNCH,--,"240,204,904",/market-activity/stocks/hrtx
+CVRX,"CVRx, Inc. Common Stock",$9.05,-0.30,-3.209%,"237,201,486",/market-activity/stocks/cvrx
+EDIT,"Editas Medicine, Inc. Common Stock",$2.42,-0.01,-0.412%,"236,237,157",/market-activity/stocks/edit
+TNYA,"Tenaya Therapeutics, Inc. Common Stock",$1.41,0.03,2.174%,"234,773,298",/market-activity/stocks/tnya
+ELMD,"Electromed, Inc. Common Stock",$27.81,0.01,0.036%,"231,950,362",/market-activity/stocks/elmd
+TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,$19.64,0.11,0.563%,"231,291,285",/market-activity/stocks/tnxp
+FBIOP,"Fortress Biotech, Inc. 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock",$7.45,0.30,4.196%,"231,232,631",/market-activity/stocks/fbiop
+HUMA,"Humacyte, Inc. Common Stock",$1.23,-0.07,-5.385%,"230,343,725",/market-activity/stocks/huma
+STXS,"Stereotaxis, Inc. Common Stock",$2.41,-0.02,-0.823%,"224,912,679",/market-activity/stocks/stxs
+NAKA,"Kindly MD, Inc. Common Stock",$0.5103,-0.0407,-7.387%,"224,455,909",/market-activity/stocks/naka
+QNCX,"Quince Therapeutics, Inc. Common Stock",$4.01,0.41,11.389%,"223,282,775",/market-activity/stocks/qncx
+TARA,"Protara Therapeutics, Inc.  Common Stock",$5.58,-1.29,-18.777%,"215,316,911",/market-activity/stocks/tara
+DERM,Journey Medical Corporation Common Stock,$7.93,0.12,1.536%,"215,187,727",/market-activity/stocks/derm
+FENC,Fennec Pharmaceuticals Inc. Common Stock,$7.55,-0.23,-2.956%,"211,868,100",/market-activity/stocks/fenc
+SGMT,Sagimet Biosciences Inc. Series A Common Stock,$6.39,0.04,0.63%,"207,813,018",/market-activity/stocks/sgmt
+ETHZ,ETHZilla Corporation Common Stock,$10.51,-1.28,-10.857%,"202,855,854",/market-activity/stocks/ethz
+OMI,"Owens & Minor, Inc. Common Stock",$2.59,0.04,1.569%,"200,327,678",/market-activity/stocks/omi
+MTVA,MetaVia Inc. Common Stock,$8.1819,0.8669,11.851%,"198,122,974",/market-activity/stocks/mtva
+STTK,"Shattuck Labs, Inc. Common Stock",$3.10,0.13,4.377%,"196,167,513",/market-activity/stocks/sttk
+SMTI,Sanara MedTech Inc. Common Stock,$21.69,-0.11,-0.505%,"193,814,400",/market-activity/stocks/smti
+RANI,"Rani Therapeutics Holdings, Inc. Class A Common Stock",$1.59,0.02,1.274%,"193,218,931",/market-activity/stocks/rani
+AVR,Anteris Technologies Global Corp. Common Stock,$4.67,0.13,2.863%,"192,392,652",/market-activity/stocks/avr
+GANX,"Gain Therapeutics, Inc. Common Stock",$3.85,0.35,10.00%,"191,644,080",/market-activity/stocks/ganx
+AIRS,"AirSculpt Technologies, Inc. Common Stock",$3.04,-0.32,-9.524%,"189,807,477",/market-activity/stocks/airs
+SABS,"SAB Biotherapeutics, Inc. Common Stock",$3.98,0.18,4.737%,"189,475,267",/market-activity/stocks/sabs
+INGN,"Inogen, Inc Common Stock",$6.94,-0.05,-0.715%,"188,410,465",/market-activity/stocks/ingn
+IMMX,"Immix Biopharma, Inc. Common Stock",$5.56,0.72,14.876%,"186,692,974",/market-activity/stocks/immx
+DWTX,"Dogwood Therapeutics, Inc. Common Stock",$6.01,-0.13,-2.117%,"186,664,139",/market-activity/stocks/dwtx
+SKIN,The Beauty Health Company Class A Common Stock,$1.46,-0.12,-7.595%,"186,154,466",/market-activity/stocks/skin
+CBIO,"Crescent Biopharma, Inc. Common Stock",$13.07,0.08,0.616%,"181,575,184",/market-activity/stocks/cbio
+IKT,"Inhibikase Therapeutics, Inc. Common Stock",$1.50,-0.01,-0.662%,"181,349,475",/market-activity/stocks/ikt
+INFU,"InfuSystems Holdings, Inc. Common Stock",$8.89,-0.07,-0.781%,"180,788,667",/market-activity/stocks/infu
+CRBP,"Corbus Pharmaceuticals Holdings, Inc. Common Stock",$10.24,-0.45,-4.21%,"179,743,099",/market-activity/stocks/crbp
+UTMD,"Utah Medical Products, Inc. Common Stock",$56.01,0.02,0.036%,"179,437,669",/market-activity/stocks/utmd
+VOR,Vor Biopharma Inc. Common Stock,$8.18,-0.15,-1.801%,"179,228,953",/market-activity/stocks/vor
+RNAC,"Cartesian Therapeutics, Inc. Common Stock",$6.88,-0.02,-0.29%,"178,904,809",/market-activity/stocks/rnac
+OSUR,"OraSure Technologies, Inc. Common Stock",$2.49,-0.08,-3.113%,"178,616,490",/market-activity/stocks/osur
+NTHI,"NeOnc Technologies Holdings, Inc. Common Stock",$9.17,-0.18,-1.925%,"178,579,359",/market-activity/stocks/nthi
+CATX,"Perspective Therapeutics, Inc. Common Stock",$2.40,0.01,0.418%,"178,411,176",/market-activity/stocks/catx
+CRBU,"Caribou Biosciences, Inc. Common Stock",$1.90,-0.04,-2.062%,"177,589,272",/market-activity/stocks/crbu
+UPXI,"Upexi, Inc. Common Stock",$2.66,-0.19,-6.667%,"176,883,502",/market-activity/stocks/upxi
+GNLX,Genelux Corporation Common Stock,$4.64,-0.01,-0.215%,"176,560,217",/market-activity/stocks/gnlx
+SRZN,"Surrozen, Inc. Common Stock",$20.46,2.23,12.233%,"175,371,274",/market-activity/stocks/srzn
+TMCI,"Treace Medical Concepts, Inc. Common Stock",$2.74,UNCH,--,"174,587,520",/market-activity/stocks/tmci
+NVCT,"Nuvectis Pharma, Inc. Common Stock",$6.71,-0.035,-0.519%,"171,875,952",/market-activity/stocks/nvct
+VTGN,"Vistagen Therapeutics, Inc. Common Stock",$4.33,0.05,1.168%,"171,015,303",/market-activity/stocks/vtgn
+LFMD,"LifeMD, Inc. Common Stock",$3.50,-0.23,-6.166%,"168,475,598",/market-activity/stocks/lfmd
+SGMO,"Sangamo Therapeutics, Inc. Common Stock",$0.4959,-0.0342,-6.452%,"166,867,617",/market-activity/stocks/sgmo
+XGN,Exagen Inc. Common Stock,$7.20,-0.29,-3.872%,"163,174,313",/market-activity/stocks/xgn
+FTLF,"FitLife Brands, Inc. Common Stock",$17.26,-0.49,-2.761%,"162,089,903",/market-activity/stocks/ftlf
+APYX,Apyx Medical Corporation Common Stock,$3.94,-0.09,-2.233%,"161,656,711",/market-activity/stocks/apyx
+HSDT,Solana Company Class A Common Stock (DE),$3.86,-0.34,-8.095%,"159,423,404",/market-activity/stocks/hsdt
+ANIX,"Anixa Biosciences, Inc. Common Stock",$4.79,0.05,1.055%,"157,672,023",/market-activity/stocks/anix
+MXCT,"MaxCyte, Inc. Common Stock",$1.47,-0.11,-6.962%,"156,810,796",/market-activity/stocks/mxct
+IRD,"Opus Genetics, Inc. Common Stock",$2.27,0.04,1.794%,"156,548,752",/market-activity/stocks/ird
+RVMDW,"Revolution Medicines, Inc. Warrant",$0.8011,0.0011,0.138%,"154,868,496",/market-activity/stocks/rvmdw
+SAVA,"Cassava Sciences, Inc. Common Stock",$3.19,-0.13,-3.916%,"154,102,188",/market-activity/stocks/sava
+CGTX,"Cognition Therapeutics, Inc. Common Stock",$1.73,-0.03,-1.705%,"152,714,466",/market-activity/stocks/cgtx
+NBY,"NovaBay Pharmaceuticals, Inc. Common Stock",$1.21,0.12,11.009%,"152,473,006",/market-activity/stocks/nby
